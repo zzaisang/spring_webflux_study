@@ -14,6 +14,8 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.reactivestreams:reactive-streams:1.0.3'
+
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
